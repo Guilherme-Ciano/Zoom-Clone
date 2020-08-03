@@ -1,6 +1,7 @@
 # Zoom-Clone
 Projeto de clone do zoom via web browser, utilizando Socket.io e WebRTC
-
+<b>Necessário descompactação</b>
+GitHub não premitiu colocar todo o arquivo devido ao tamanho
 <h3>O projeto:</h3>
 
 <p>
@@ -16,3 +17,19 @@ Projeto de clone do zoom via web browser, utilizando Socket.io e WebRTC
   <li> Copie esse ID e cole em outro browser ou nova página </li>
   <li> Dentro de alguns instantes a aplicação carregará e o video-chat será iniciado </li>
 </ol>
+
+<h3>Tecnologias utilizadas</h3>
+<ul>
+<b>
+<i>
+<li>Javascript</li>
+<li>Node.js</li>
+<li>Json</li>
+<li>Socket.io</li>
+<li>WebRTC</li>
+</b>
+</i>
+</ul>
+
+
+
